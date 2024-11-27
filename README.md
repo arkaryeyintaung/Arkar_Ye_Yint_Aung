@@ -10,11 +10,14 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkaryeyintaung47@gmail.com)
 
+---
 
 ## 🚀 Top Projects
-Here are some of the projects I’ve worked on:  
-- 🔗 **[Project Name 1](https://github.com/YourUsername/ProjectName1)**: A brief description of what it is and its impact  
-- 🔗 **[Project Name 2](https://github.com/YourUsername/ProjectName2)**: Another cool project worth mentioning  
+Here are some of the projects I’ve worked on: 
+| **Name**      | **Details**               |
+|---------------|---------------------------|
+| Border Style  | Using Markdown Tables     |
+| Appearance    | Clean and structured look |
 
 ---
 
