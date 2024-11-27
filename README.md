@@ -12,12 +12,13 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 
 ---
 
-## 🚀 Top Projects
+## 🚀 My LAB Projects
 Here are some of the projects I’ve worked on: 
+
 | **Name**      | **Details**               |
 |---------------|---------------------------|
-| Border Style  | Using Markdown Tables     |
-| Appearance    | Clean and structured look |
+| Active Directory LAB           | Using Markdown Tables     |
+| Vulnerability Management LAB   | Clean and structured look |
 
 ---
 
