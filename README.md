@@ -13,7 +13,7 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 ---
 
 ## 🚀 My LAB Projects
-Here are some of the projects I’ve worked on: 
+Here are some of the projects I’ve worked on and hands on experience skills
 
 | **Name**      | **Details**               |
 |---------------|---------------------------|
