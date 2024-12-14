@@ -12,10 +12,6 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 <p align="left">
 <a href="https://www.linkedin.com/in/arkaryeyintaung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arkaryeyintaung/" height="30" width="40" /> </a>
 </p> 
-- 
-<a href="arkaryeyintaung47@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-</a>
 ---
 
 ## 🚀 My LAB Projects
