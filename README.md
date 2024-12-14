@@ -8,11 +8,10 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 
 🔗 **Find Me Elsewhere**  
 -
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/arkaryeyintaung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arkaryeyintaung/" height="30" width="40" /> </a>
-</p> 
----
+</p>
+
+You can reach me arkaryeyintaung47@gmail.com
 
 ## 🚀 My LAB Projects
 Here are some of the projects I’ve worked on and hands on experience skills
