@@ -18,7 +18,7 @@ Here are some of the projects I’ve worked on and hands on experience skills
 | **Name**      | **Details**               |
 |---------------|---------------------------|
 | Active Directory LAB           | [Detail](https://github.com/arkaryeyintaung/Active-Directory-LAB)|
-| Vulnerability Management LAB   | Clean and structured look |
+| IP Service Level Agreement | Clean and structured look |
 
 ---
 
