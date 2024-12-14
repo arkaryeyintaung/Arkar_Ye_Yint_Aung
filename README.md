@@ -5,7 +5,7 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 - 🔍 I specialize in **Incident Response**, **Networking** and **IT Support** 
 - 🌱 Currently learning **Practical Ethical Hacking** and **Practical Junior Penetration Testing** course from TCM
 - 🛠️ Check out my projects and feel free to reach out for collaboration or questions!  
-- 📩You can reach me:arkaryeyintaung47@gmail.com
+- 📩 You can reach me: arkaryeyintaung47@gmail.com
 
 🔗 **Find Me Elsewhere**  
 -
