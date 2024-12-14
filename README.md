@@ -5,20 +5,13 @@ I'm a **SOC Analyst** and **Cyber Defensive and Offensive Enthusiast** with a pa
 - 🔍 I specialize in **Incident Response**, **Networking** and **IT Support** 
 - 🌱 Currently learning **Practical Ethical Hacking** and **Practical Junior Penetration Testing** course from TCM
 - 🛠️ Check out my projects and feel free to reach out for collaboration or questions!  
+- 📩You can reach me: arkaryeyintaung47@gmail.com
 
 🔗 **Find Me Elsewhere**  
 -
 <a href="https://www.linkedin.com/in/arkaryeyintaung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arkaryeyintaung/" height="30" width="40" /> </a>
 </p>
-
-<p align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
-
-You can reach me arkaryeyintaung47@gmail.com
-
+-
 ## 🚀 My LAB Projects
 Here are some of the projects I’ve worked on and hands on experience skills
 
