@@ -22,11 +22,5 @@ Here are some of the projects I’ve worked on and hands on experience skills
 
 ---
 
-- [GitHub Profile](https://github.com/YourUsername)
-- [My Awesome Project](https://github.com/YourUsername/RepositoryName)
-- [Another Repository](https://github.com/YourUsername/AnotherRepository)
-
-
-
 ### 🌟 Thank you for visiting my profile!  
 Feel free to explore my repositories and connect with me. 😊
